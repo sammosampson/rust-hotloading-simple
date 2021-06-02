@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 libloading = "0.7.0"
 notify = "4.0.0"
+engine = { path = "../engine", version = "0.1.0"}

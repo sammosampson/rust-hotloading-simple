@@ -3,5 +3,5 @@
 members = [
     "runner",
     "engine",
-    "game",
+    "app",
 ]
